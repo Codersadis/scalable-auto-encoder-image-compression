@@ -7,7 +7,7 @@ The overall structure is a present a generic scalable model by stacking various 
 
 <div align=center>
 <img src="figs/sae.png" width="25%" height="25%" />
-
+</div>
 ---
 
 ### Prerequisites
@@ -66,10 +66,11 @@ The rate-distorion curves over all images in Kodak dataset are shown below:
 
 <div align=center>
 <img src="figs/kodakmsssim.png" width="42%" height="42%" />
+</div>
 
 ---
 
-### 4. Visual Comparisons
+### Visual Comparisons
 
 Two simple examples for visual comparisons of restored images are provided (bpp/PSNR/MS-SSIM).
 
@@ -77,6 +78,7 @@ Two simple examples for visual comparisons of restored images are provided (bpp/
 <img src="figs/visual-1.png" width="85%" height="85%" />
 <br>
 <img src="figs/visual-2.png" width="85%" height="85%" />
+</div>
 
 For more details of the reconstructed images and their corresponding bit-rate, please refer to the following GitHub repo:
 

@@ -34,7 +34,7 @@ def train():
   train_mse *= 255 ** 2 / num_pixels
 
   # The rate-distortion cost.
-  train_loss =  train_mse + 1000 * train_bpp
+  train_loss =  train_mse + args.lmbda * train_bpp
 
   # Minimize loss and auxiliary loss, and execute update op.
   step = tf.train.create_global_step()
