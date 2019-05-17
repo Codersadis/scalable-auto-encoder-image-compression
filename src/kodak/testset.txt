@@ -1,0 +1,2 @@
+please download the Kodak dataset from:
+http://r0k.us/graphics/kodak/

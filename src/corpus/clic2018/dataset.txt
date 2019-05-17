@@ -1,0 +1,2 @@
+please download the training set from:
+http://www.compression.cc/2018/challenge/
