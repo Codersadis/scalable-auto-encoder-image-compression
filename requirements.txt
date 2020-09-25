@@ -5,5 +5,5 @@ scikit-image
 scikit-learn
 scipy
 sklearn
-tensorflow-gpu==1.4.1
+tensorflow-gpu==1.15.4
 tensorflow_compression
